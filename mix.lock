@@ -1,0 +1,2 @@
+%{"earmark": {:git, "https://github.com/pragdave/earmark.git", "6f20bd06f40e4333294d19eb38031ea480f3d3ba", []},
+  "ex_doc": {:git, "https://github.com/elixir-lang/ex_doc.git", "4b63baa0c882ca3fb93595025d3bb5d2908b9336", []}}
